@@ -1,5 +1,4 @@
-# suiii2.0
-# DDOS-BOMBER About
+# suiii2.0 About
 
 
 #### SUII-BOMBER INSTALLATION AND RUN :- 
