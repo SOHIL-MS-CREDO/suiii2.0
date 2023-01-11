@@ -2,12 +2,12 @@
 # DDOS-BOMBER About
 
 
-#### DDOS-BOMBER INSTALLATION AND RUN :- 
+#### SUII-BOMBER INSTALLATION AND RUN :- 
 
 
 ## Usage:
 
-Run these commands to run DDOS-BOMBER
+Run these commands to run SUII-BOMBER
 
 ## > For Termux:
 
