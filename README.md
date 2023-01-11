@@ -23,16 +23,16 @@ pkg install python
 pkg install python3
 ```
 ```
-git clone https://github.com/priyans0830m/DDOS-BOMBER.git
+git clone https://github.com/SOHIL-MS-CREDO/suiii2.0.git
 ```
 ```
-cd DDOS-BOMBER
+cd suiii2.0
 ```
 ```
-chmod +x ddos.py
+chmod +x SUII.py
 ```
 ```
-python ddos.py
+python SUII.py
 
 ```
 ## > For Linux:
@@ -48,16 +48,16 @@ apt install python3
 sudo apt install git
 ```
 ```
-git clone https://github.com/priyans0830m/DDOS-BOMBER.git
+git clone https://github.com/SOHIL-MS-CREDO/suiii2.0.git
 ```
 ```
-cd DDOS-BOMBER
+cd suiii2.0
 ```
 ```
-chmod +x ddos.py
+chmod +x SUII.py
 ```
 ```
-sudo python ddos.py 
+sudo python SUII.py 
 ```
 
 
