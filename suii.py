@@ -1,4 +1,4 @@
-from src.smhtk import *
+from src.suiitk import *
 from src.user_agents import user_agents
 import os
 import random
